@@ -1,0 +1,6 @@
+{
+  "name": "GharKharch - Family Expense & Savings Tracker",
+  "description": "Daily household spending tracker, monthly expense breakdown, savings analyzer, and month-by-month financial comparison built for middle class families.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
